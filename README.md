@@ -10,7 +10,7 @@
 
 **Author:** [@RustFlash](https://github.com/Flash-Ticker)
 
-[![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/TheServerTeam/blob/main/TheServerTeam_Thumb.jpg)](https://youtu.be/xJzMHkWhYpw?si=Xg3FFy5DJ8DGYJIP)
+[![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/TheServerTeam/blob/main/TheServerTeam_Thumb.png)](https://youtu.be/xJzMHkWhYpw?si=Xg3FFy5DJ8DGYJIP)
 
 ## Description
 **TheServerTeam** is a plugin that provides a user interface to display the server team directly in the game. With a modern, clear team overview, players can quickly see which team members are active (online) and which are offline. The team overview includes the roles (e.g. owner, admin, moderators) and clearly displays information about the members. The colors and layout options are easily customizable to adapt the design to the needs of the server.
